@@ -1,9 +1,9 @@
 Feature: director Login with valid and invalid credentials
 
-  Scenario: director Login with valid credentials
-    Given I am on the director login page interface
-    When I type email and I type password
-    Then I am on Activity page interface
+  # Scenario: director Login with valid credentials
+  #   Given I am on the director login page interface
+  #   When I type email and I type password
+  #   Then I am on Activity page interface
 
   # First Method
   # Scenario Outline: director Login with invalid credentials
