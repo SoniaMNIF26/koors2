@@ -7,3 +7,4 @@ When I type email and I type password
 
     When I click on the toolbar and on deconnect from the app
     Then I am redirected to authentication
+    #testtt
